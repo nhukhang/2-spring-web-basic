@@ -1,0 +1,1 @@
+# Basic struct Spring + Hibernate(MySql) #
